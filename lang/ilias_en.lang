@@ -1,0 +1,19 @@
+<!-- language file start -->
+cron_title#:#Weekly Mood Barometer Reminder
+cron_info#:#Sends a reminder every friday to all users that did not yet participated in the weekly mood voting.
+config_modified#:#Configuration has been modified.
+config_tab#:#Configuration
+salutation_neutral_input#:#Neutral Salutation
+salutation_neutral_input_info#:#For users with a neutral gender this salutation will be used for the reminder email.
+salutation_female_input#:#Female Salutation
+salutation_female_input_info#:#For female users this salatation will be used for the reminder email.
+salutation_male_input#:#Male Salutation
+salutation_male_input_info#:#For male users this salatation will be used for the reminder email.
+reminder_subject_input#:#Reminder Subject
+reminder_subject_input_info#:#This subject will be used for the reminder email.
+reminder_text_input#:#Reminder Text
+reminder_text_input_info#:#This text will be used for the reminder email.
+result_missing_mood_recs_notified#:#The mood reminder was send to %s users.
+result_no_missing_mood_recs#:#No missing mood record was detected.
+result_other_day_than_friday#:#No actions because the run happened not on friday.
+check_mood_barometer_plugin#:#Please verify that the "Mood Barometer Plugin" has been successfully installed and configured.

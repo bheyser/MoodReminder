@@ -1,0 +1,19 @@
+<!-- language file start -->
+cron_title#:#Wöchentliche Stimmungsbarometer Erinnerung (jeden Freitag)
+cron_info#:#Versendet jeden Freitag eine Erinnerung an alle Benutzer, die noch nicht an der wöchentlichen Erfassung der eigenen Stimmung teilgenommen haben.
+config_modified#:#Konfiguration wurde geändert.
+config_tab#:#Konfiguration
+salutation_neutral_input#:#Neutrale Anrede
+salutation_neutral_input_info#:#Für Benutzer mit neutraler Geschlechtsangabe wird diese Anrede in der Erinnerungs-Email verwendet.<br />Die folgenden Platzhalter können verwendet werden: %s
+salutation_female_input#:#Anrede für Frauen
+salutation_female_input_info#:#Für Benutzer mit weiblicher Geschlechtsangabe wird diese Anrede in der Erinnerungs-Email verwendet.<br />Die folgenden Platzhalter können verwendet werden: %s
+salutation_male_input#:#Anrede für Männer
+salutation_male_input_info#:#Für Benutzer mit männlicher Geschlechtsangabe wird diese Anrede in der Erinnerungs-Email verwendet.<br />Die folgenden Platzhalter können verwendet werden: %s
+reminder_subject_input#:#Betreff der Erinnerungs-Email
+reminder_subject_input_info#:#Dieser Betreff wird für die Erinnerungs-Email verwendet.
+reminder_text_input#:#Erinnerungstext
+reminder_text_input_info#:#Dieser Text wird für die Erinnerungs-Email verwendet.
+result_missing_mood_recs_notified#:#Es wurden %s Benutzer an die Stimmungserfassung erinnert.
+result_no_missing_mood_recs#:#Es wurde keine fehlende Stimmungserfassung gefunden.
+result_other_day_than_friday#:#Keine Aktionen, da der Lauf nicht an einem Freitag stattfand.
+check_mood_barometer_plugin#:#Bitte stellen Sie sicher, dass das "Mood Barometer Plugin" erfolgreich installiert und konfiguriert wurde.

@@ -53,12 +53,12 @@ class ilMoodReminderCron extends ilCronJob
 	
 	public function getTitle()
 	{
-		return $this->getPlugin()->txt("mood_reminder_cron_title");
+		return $this->getPlugin()->txt("cron_title");
 	}
 	
 	public function getDescription()
 	{
-		return $this->getPlugin()->txt("mood_reminder_cron_info");
+		return $this->getPlugin()->txt("cron_info");
 	}
 	
 	public function hasAutoActivation()
